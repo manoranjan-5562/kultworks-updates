@@ -1,0 +1,12 @@
+version: 1.1.1
+files:
+  - url: >-
+      https://github.com/manoranjan-5562/kultworks-updates/releases/download/v1.1.1/KultWorks-Setup-1.1.1-main.exe
+    sha512: >-
+      Jj0A5QZTM54H+yTMGHPa0yOqBzGXgDlP9nnHtoMdf+5+DiQcSu6GYPtA4LlPa0DjEOjzahHH6E899Owc26b8VA==
+    size: 104833701
+path: >-
+  https://github.com/manoranjan-5562/kultworks-updates/releases/download/v1.1.1/KultWorks-Setup-1.1.1-main.exe
+sha512: >-
+  Jj0A5QZTM54H+yTMGHPa0yOqBzGXgDlP9nnHtoMdf+5+DiQcSu6GYPtA4LlPa0DjEOjzahHH6E899Owc26b8VA==
+releaseDate: '2026-02-14T15:30:08.044Z'
