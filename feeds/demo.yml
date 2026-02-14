@@ -1,1 +1,12 @@
-
+version: 1.0.8
+files:
+  - url: >-
+      https://github.com/manoranjan-5562/kultworks-updates/releases/download/v1.0.8/KultWorks-Setup-1.0.8-demo.exe
+    sha512: >-
+      zWzczWEUXBmxI7dXvBf2/30j6H8dqVwaP6FFVbP6REHYN1AoBNjG/CRKg2wywdWKnCqP5XemavD672sqH7N0ow==
+    size: 104515732
+path: >-
+  https://github.com/manoranjan-5562/kultworks-updates/releases/download/v1.0.8/KultWorks-Setup-1.0.8-demo.exe
+sha512: >-
+  zWzczWEUXBmxI7dXvBf2/30j6H8dqVwaP6FFVbP6REHYN1AoBNjG/CRKg2wywdWKnCqP5XemavD672sqH7N0ow==
+releaseDate: '2026-02-14T14:09:58.904Z'
