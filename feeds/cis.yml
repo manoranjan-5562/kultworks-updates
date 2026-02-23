@@ -1,12 +1,12 @@
-version: 1.1.1
+version: 1.1.2
 files:
   - url: >-
-      https://github.com/manoranjan-5562/kultworks-updates/releases/download/v1.1.1/KultWorks-Setup-1.1.1-cis.exe
+      https://github.com/manoranjan-5562/kultworks-updates/releases/download/v$npm_package_version/KultWorks-Setup-1.1.2-cis.exe
     sha512: >-
-      1ORCMErfoJXWXdpA6KEzkvXO13E+sNuyhtg+p2NlZe5osk8JPiMQk1TBtgtqiIQJadZdVhzYNq99iKv1raVcdg==
-    size: 104603118
+      ZjbW7RgMgfWZMQ7gHG/fQkbllk98Wo1Mmf3ebaORS9eLVohkpj+fIpXptodBQtwAa9qLVVPBrWVsKtXiX+hRLg==
+    size: 105183215
 path: >-
-  https://github.com/manoranjan-5562/kultworks-updates/releases/download/v1.1.1/KultWorks-Setup-1.1.1-cis.exe
+  https://github.com/manoranjan-5562/kultworks-updates/releases/download/v$npm_package_version/KultWorks-Setup-1.1.2-cis.exe
 sha512: >-
-  1ORCMErfoJXWXdpA6KEzkvXO13E+sNuyhtg+p2NlZe5osk8JPiMQk1TBtgtqiIQJadZdVhzYNq99iKv1raVcdg==
-releaseDate: '2026-02-14T15:33:53.900Z'
+  ZjbW7RgMgfWZMQ7gHG/fQkbllk98Wo1Mmf3ebaORS9eLVohkpj+fIpXptodBQtwAa9qLVVPBrWVsKtXiX+hRLg==
+releaseDate: '2026-02-23T14:24:52.748Z'
