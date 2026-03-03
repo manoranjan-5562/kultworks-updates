@@ -1,1 +1,12 @@
-
+version: 1.1.4
+files:
+  - url: >-
+      https://github.com/manoranjan-5562/kultworks-updates/releases/download/v1.1.4/KultWorks-Setup-1.1.4-cis.exe
+    sha512: >-
+      P62y9pMMEayBt9522CEEgeetxJNi2XnGhlTE1itgpxSHzF5IdnTs3MREQfYgysExJ6n4hBLshWduTbBfSnQuEQ==
+    size: 105184693
+path: >-
+  https://github.com/manoranjan-5562/kultworks-updates/releases/download/v1.1.4/KultWorks-Setup-1.1.4-cis.exe
+sha512: >-
+  P62y9pMMEayBt9522CEEgeetxJNi2XnGhlTE1itgpxSHzF5IdnTs3MREQfYgysExJ6n4hBLshWduTbBfSnQuEQ==
+releaseDate: '2026-03-03T12:30:32.448Z'
