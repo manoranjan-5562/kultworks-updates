@@ -1,12 +1,12 @@
-version: 2.1.1
+version: 2.1.2
 files:
   - url: >-
-      https://github.com/manoranjan-5562/kultworks-updates/releases/download/v2.1.1/KultWorks-Setup-2.1.1-main.exe
+      https://github.com/manoranjan-5562/kultworks-updates/releases/download/v2.1.2/KultWorks-Setup-2.1.2-main.exe
     sha512: >-
-      M6A3lnuz1qvHt7NJFKUOzgjLRsHbjSyBKlVa/8/EsTFX+23Qlja9Uibvudnl12Xrt1c2ymNWcXcrfPQfKbLvTQ==
-    size: 105399400
+      w1opJysSkCztvkAWEXVKkzwFvN/acVF3ZG70HSs5v8X/hKZX7CxI4wsqbUgizkcVGBDQe21dN4itUYRFuvRMkQ==
+    size: 105399486
 path: >-
-  https://github.com/manoranjan-5562/kultworks-updates/releases/download/v2.1.1/KultWorks-Setup-2.1.1-main.exe
+  https://github.com/manoranjan-5562/kultworks-updates/releases/download/v2.1.2/KultWorks-Setup-2.1.2-main.exe
 sha512: >-
-  M6A3lnuz1qvHt7NJFKUOzgjLRsHbjSyBKlVa/8/EsTFX+23Qlja9Uibvudnl12Xrt1c2ymNWcXcrfPQfKbLvTQ==
-releaseDate: '2026-04-14T12:16:14.110Z'
+  w1opJysSkCztvkAWEXVKkzwFvN/acVF3ZG70HSs5v8X/hKZX7CxI4wsqbUgizkcVGBDQe21dN4itUYRFuvRMkQ==
+releaseDate: '2026-04-15T08:49:01.332Z'
