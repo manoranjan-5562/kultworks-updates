@@ -1,12 +1,12 @@
-version: 2.1.6
+version: 2.1.7
 files:
   - url: >-
-      https://github.com/manoranjan-5562/kultworks-updates/releases/download/v2.1.6/KultWorks-Setup-2.1.6-main.exe
+      https://github.com/manoranjan-5562/kultworks-updates/releases/download/v2.1.7/KultWorks-Setup-2.1.7-main.exe
     sha512: >-
-      Y3jBnjQsiJQZvLE/ajzx3ggQRPm6aIJ2nJ7OJQ8fWI4noS1hhOtGaRCrp6LqZO3VWFSK4RjLhtTBgHVT/5h6qQ==
-    size: 105412193
+      II4A/0EBypxGYIzvCFtk2Re7ik4AAdyk16pSIWqLD6Xun8ynSxPvtJeKDDBAZ9FLzlNGPIiUoboHg5AKuGedgQ==
+    size: 105412710
 path: >-
-  https://github.com/manoranjan-5562/kultworks-updates/releases/download/v2.1.6/KultWorks-Setup-2.1.6-main.exe
+  https://github.com/manoranjan-5562/kultworks-updates/releases/download/v2.1.7/KultWorks-Setup-2.1.7-main.exe
 sha512: >-
-  Y3jBnjQsiJQZvLE/ajzx3ggQRPm6aIJ2nJ7OJQ8fWI4noS1hhOtGaRCrp6LqZO3VWFSK4RjLhtTBgHVT/5h6qQ==
-releaseDate: '2026-04-23T15:08:28.928Z'
+  II4A/0EBypxGYIzvCFtk2Re7ik4AAdyk16pSIWqLD6Xun8ynSxPvtJeKDDBAZ9FLzlNGPIiUoboHg5AKuGedgQ==
+releaseDate: '2026-04-24T11:24:05.146Z'
