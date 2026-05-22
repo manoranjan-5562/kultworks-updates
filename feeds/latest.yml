@@ -1,12 +1,12 @@
-version: 2.3.4
+version: 2.3.5
 files:
   - url: >-
-      https://github.com/manoranjan-5562/kultworks-updates/releases/download/v2.3.4/KultWorks-Setup-2.3.4-main.exe
+      https://github.com/manoranjan-5562/kultworks-updates/releases/download/v2.3.5/KultWorks-Setup-2.3.5-main.exe
     sha512: >-
-      sk29nscXdIaLc0uj7SeaQfYiP3qf++k1zCHJWU9ogwm7sbOBFkYvm+gwUwjcGixzFn4x9/ytCOhppZ533uf1hQ==
-    size: 105575373
+      uQI5c14Qk0ajI8EHauVq0S/XG28OqJt9Q8upRXbxv9+2T/96jrsKSDkJG2UIjq1qqcWUrkpXq/vrPyA8O1xqyw==
+    size: 105577753
 path: >-
-  https://github.com/manoranjan-5562/kultworks-updates/releases/download/v2.3.4/KultWorks-Setup-2.3.4-main.exe
+  https://github.com/manoranjan-5562/kultworks-updates/releases/download/v2.3.5/KultWorks-Setup-2.3.5-main.exe
 sha512: >-
-  sk29nscXdIaLc0uj7SeaQfYiP3qf++k1zCHJWU9ogwm7sbOBFkYvm+gwUwjcGixzFn4x9/ytCOhppZ533uf1hQ==
-releaseDate: '2026-05-21T16:34:18.888Z'
+  uQI5c14Qk0ajI8EHauVq0S/XG28OqJt9Q8upRXbxv9+2T/96jrsKSDkJG2UIjq1qqcWUrkpXq/vrPyA8O1xqyw==
+releaseDate: '2026-05-22T16:53:34.750Z'
